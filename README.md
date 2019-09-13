@@ -6,7 +6,7 @@ name: A
 init: q1
 accept: qAccept
 
-q1,0
+q1,0 
 q1,0,>
 
 q1,1
